@@ -7,7 +7,7 @@ published: true
 
 <p><center><img src="/images/bitpay-invoices-1.jpg" alt="Bitpay Invoices"/></center></p>
 
-<p>Starting next week, <a href="/bitcoin-predictions-from-reserve-bank-of-india">Bitpay  announces</a> that they will be having in their every invoices a fee added despite having a high transaction fees over the network. This change will not affect merchant fees either but for every buyer that pays a Bitpay invoice will be automatically given a calculated figure for the estimated network fees or network cost which is part of the overall cost to be paid, as explained by them.<p>
+<p>Starting next week, <a href="/bitcoin-predictions-from-reserve-bank-of-india">Bitpay announces</a> that they will be having in their every invoices a fee added despite having a high transaction fees over the network. This change will not affect merchant fees either but for every buyer that pays a Bitpay invoice will be automatically given a calculated figure for the estimated network fees or network cost which is part of the overall cost to be paid, as explained by them.<p>
 
 <h2>Bitpay Invoices Additional Fees</h2>
 
@@ -15,7 +15,7 @@ published: true
 
 <p>Payees were still free of charge when they received money using service invoice. On the other have, the payers will be having the added miner's fee in their invoices to be paid.<p>
 
-<p>Up until this time, Bitpay is still covering the expense of sweeping and combining Unspent Transaction Output Set or UTXOs which came from invoice payments of BItpay, as explained by them.<p>
+<p>Up until this time, Bitpay is still covering the expense of sweeping and combining Unspent Transaction Output Set or UTXOs which came from invoice payments of Bitpay, as explained by them.<p>
 
 <p>Stephen Pair the CEO of Bitpay stated recently the there is a huge rise on Bitcoin mining fees in the network, and that is exponential. <a href="/beijing-threatens-shut-down-bitcoin-exchanges">The company has been alarmed</a> of the fees covered by Bitpay for customers last February which reaches to 50,000 USD making them to raise a minimal amount in the invoice from 0.04 USD to 1.00 USD. The statement from Bitpay were as follows :<p>
 
@@ -27,7 +27,7 @@ published: true
 
 <p>Wallets ordinarily have many <a href="/bitcoin-gambling-investments-512">locations that make up some portion</a> of every installment sent. A run of the mill spend from most wallets can stack many delivers together to add up to up the sum being sent. An installment may just have one UTXO or it could have several these locations. <p>
 
-<p>Bitpay's solicitations will charge for every one exclusively. These charges are included to the receipt top of the payer's own digger expense which starts in the payer's wallet, giving Bitpay no influence over them. The organization conceded:<p>
+<p>Bitpay's solicitations will charge for every one exclusively. These charges are included to the receipt top of the payer's own <a href="https://www.truckdrivingjobs.com/itrucking.html">trucker's expense</a> which starts in the payer's wallet, giving Bitpay no influence over them. The organization conceded:<p>
 
 <p><center><img src="/images/bitpay-invoices-3.jpg" alt="Bitpay Invoices"/></center></p>
 
